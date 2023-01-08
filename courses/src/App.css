@@ -1,6 +1,7 @@
 .courses-navbar {
   text-align: right;
   margin: 2%;
+  margin-bottom: 4%;
 }
 
 
@@ -13,7 +14,7 @@
 }
 
 .course-container {
-  margin: 10px 5% 0 5%;
+  margin: 2% 5% 0 5%;
   background: rgb(224, 220, 220);
   padding: 1.5%;
   border: 2px solid black;
